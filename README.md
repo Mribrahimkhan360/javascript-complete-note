@@ -10,6 +10,7 @@ TimeCodes<br>
 0:30:02 - Primitive Data Type <br>
 0:39:28 - Introduce With Operator <br>
 0:52:56 - If Else Statement <br>
+<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-play-thin.png"><br>
 1:01:01 - Switch Case <br>
 1:09:02 - Basic for loop <br>
 1:14:49 - Loop break continue<br> 
