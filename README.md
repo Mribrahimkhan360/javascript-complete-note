@@ -1,4 +1,3 @@
-<img src="https://i.ytimg.com/vi/hlGoQC332VM/hqdefault.jpg">
 TimeCodes
 0:00:00 - Start <br>
 0:03:33 - JS Introduction <br>
