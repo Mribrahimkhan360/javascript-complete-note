@@ -13,11 +13,11 @@ TimeCodes
 0:52:56 - If Else Statement <br>
 1:01:01 - Switch Case <br>
 1:09:02 - Basic for loop <br>
+1:14:49 - Loop break continue <br>
+1:19:20 - While Loop <br>
 <hr width="100">
 <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-play-thin.png" height="40">
 <hr width="100">
-1:14:49 - Loop break continue <br>
-1:19:20 - While Loop <br>
 1:25:26 - do while loop <br>
 1:33:12 - JavaScript function <br>
 1:39:42 - Function Parameter <br>
