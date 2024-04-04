@@ -1,0 +1,1 @@
+substr to_lower_case to_uppercase trim 
