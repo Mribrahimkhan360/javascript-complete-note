@@ -33,11 +33,11 @@ TimeCodes
 2:44:16 - Array Slice And Sort <br>
 2:49:54 - Array splice <br>
 2:58:33 - String Methods <br>
+3:03:18 - String Methods <br>
+3:10:28 - String Methods <br>
 <hr width="100">
 <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-play-thin.png" height="40">
 <hr width="100">
-3:03:18 - String Methods <br>
-3:10:28 - String Methods <br>
 3:16:15 - JavaScript Date Object <br>
 3:27:04 - JavaScript Math Object<br> 
 3:32:25 - JavaScript Numbers <br>
