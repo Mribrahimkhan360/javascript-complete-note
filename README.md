@@ -26,9 +26,6 @@ TimeCodes
 2:13:02 - For In Loop Over Object <br>
 2:18:12 - Array Concat And Array From <br>
 <b>2:22:32 - Array Filter</b> <br>
-<hr width="100">
-<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-play-thin.png" height="40">
-<hr width="100">
 2:27:31 - Array Find Find Index <br>
 2:30:44 - Array ForEach Method <br>
 2:35:12 - Array Includes And IndexOf <br>
@@ -36,6 +33,9 @@ TimeCodes
 2:44:16 - Array Slice And Sort <br>
 2:49:54 - Array splice <br>
 2:58:33 - String Methods <br>
+<hr width="100">
+<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-play-thin.png" height="40">
+<hr width="100">
 3:03:18 - String Methods <br>
 3:10:28 - String Methods <br>
 3:16:15 - JavaScript Date Object <br>
