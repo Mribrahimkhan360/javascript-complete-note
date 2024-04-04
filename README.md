@@ -25,7 +25,7 @@ TimeCodes
 2:08:37 - For In Loop Over Array <br>
 2:13:02 - For In Loop Over Object <br>
 2:18:12 - Array Concat And Array From <br>
-2:22:32 - Array Filter <br>
+<b>2:22:32 - Array Filter</b> <br>
 <hr width="100">
 <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-play-thin.png" height="40">
 <hr width="100">
