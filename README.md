@@ -39,12 +39,12 @@ TimeCodes
 3:27:04 - JavaScript Math Object<br> 
 3:32:25 - JavaScript Numbers <br>
 3:44:39 - JS Window Object <br>
-<hr width="100">
-<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-play-thin.png" height="40">
-<hr width="100">
 3:49:51 - JS Navigator Object <br>
 3:53:15 - Js Geolocation <br>
 3:59:49 - Js common events <br>
+<hr width="100">
+<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-play-thin.png" height="40">
+<hr width="100">
 4:06:59 - JS Common Events <br><br>
 4:10:16 - Introduction to DOM <br>
 4:20:38 - Finding Elements By DOM <br>
