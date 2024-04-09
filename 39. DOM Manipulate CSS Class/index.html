@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Item Example</title>
+</head>
+<body>
+
+<ul id="MyItems">
+    <!-- List items will be added here -->
+</ul><br><br>
+
+<input type="text" id="AddItem">
+<button onclick="AddItem()">Add</button>
+
+<script>
+    function AddItem() {
+        var itemValue = document.getElementById('AddItem').value;
+
+        var listItem = document.createElement('li');
+        listItem.textContent = itemValue; // Use textContent instead of innerHTML
+
+        var MyItems = document.getElementById('MyItems');
+        MyItems.appendChild(listItem);
+    }
+</script>
+
+</body>
+</html>
