@@ -47,12 +47,12 @@ TimeCodes
 4:20:38 - Finding Elements By DOM <br>
 4:33:28 - HTML DOM Document <br>
 4:41:41 - HTML DOM Document <br>
-<hr width="100">
-<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-play-thin.png" height="40">
-<hr width="100">
 4:48:05 - JS DOM Working With Form Input <br>
 4:54:48 - DOM Manipulate CSS Class <br>
 5:02:51 - Create Element Append Element <br>
+<hr width="100">
+<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-play-thin.png" height="40">
+<hr width="100">
 5:08:52 - DOM Change Attribute Value <br>
 5:17:13 - DOM Query Selector <br><br>
 5:22:32 - Ajax Introduction <br>
