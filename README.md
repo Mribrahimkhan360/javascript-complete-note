@@ -25,7 +25,7 @@ TimeCodes
 2:08:37 - For In Loop Over Array <br>
 2:13:02 - For In Loop Over Object <br>
 2:18:12 - Array Concat And Array From <br>
-<b>2:22:32 - Array Filter</b> <br>
+2:22:32 - Array Filter</b> <br>
 2:27:31 - Array Find Find Index <br>
 2:30:44 - Array ForEach Method <br>
 2:35:12 - Array Includes And IndexOf <br>
