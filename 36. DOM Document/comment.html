@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>DOM</title>
+	<link rel="stylesheet" href="asstes/css/style.css">
+</head>
+<body id="body">
+	<h1>Shair on your comment</h1>
+	<hr>
+	<div>
+		<textarea name="" id="comment-input" cols="50" rows="10" placeholder="Write our comment...">
+		
+		</textarea>
+	</div>
+	<p id="comment-output"></p>
+	<button type="btn" id="btn">Comment</button>
+	<script>
+    document.getElementById('btn').addEventListener('click', function() {
+    const commentInput = document.getElementById('comment-input');
+    const commentOutput = document.getElementById('comment-output'); // Assuming 'comment-text' is an input field
+    commentOutput.innerText = commentInput.value;
+});
+
+  </script>
+</body>
+</html>
