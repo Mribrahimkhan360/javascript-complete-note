@@ -1,0 +1,14 @@
+input{
+	border: 1px solid #ddd;
+}
+.doepdown-container{
+	display: flex;
+	justify-content: space-between;
+}
+#divtag{
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+}
+img{
+	width: 140px;
+}
